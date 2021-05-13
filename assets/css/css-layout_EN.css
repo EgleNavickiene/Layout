@@ -1,4 +1,13 @@
-/* SCSS */
+/* Clearfix: https://www.w3schools.com/howto/howto_css_clearfix.asp */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+img {
+    max-width: 100%;
+}
 
 body {
   font-family: sans-serif;
