@@ -1,0 +1,13 @@
+.card-row {
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+
+.about-right {
+    width: 15px;
+}
+
+.tittle {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
